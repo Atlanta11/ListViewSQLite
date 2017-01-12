@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b4368f0dfdb59e2627d30975a647a2e51b4438de">
+        <dex dex="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_dfba05098ad7967ed280955436005c66ad1b5007\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="98bbeb005be4c02f188a29374ddb4810fbc2c564">
+        <dex dex="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_7fd9b854f4400d743c72291d9d45f5f4a24650d2\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\ginov\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\21.0.3\support-annotations-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="4b74cefe1f0c1b819e7260c8627a14674e37fd35">
+        <dex dex="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-21.0.3_c6248a4e87f80877c22f7943e3f23367ededd190\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2c91c949a45a21cdecf26e03951e46c7beec9ad8">
+        <dex dex="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-21.0.3_669f34631c5c5b2612b6559c6b168a8a00572f46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\exploded-aar\com.android.support\support-v4\21.0.3\jars\libs\internal_impl-21.0.3.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="01ec05bfbafcc07646ba813000bf2ef11742dd03">
+        <dex dex="F:\Project_android_studio\ListViewSQLite\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-21.0.3_ed5cb037a3978d4ba2425afe21064d15f56c19cb\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,7 @@
+#Thu Jan 12 23:46:29 CET 2017
+base.0=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dfba05098ad7967ed280955436005c66ad1b5007
+renamed.1=classes2.dex
+renamed.0=classes.dex
+file.1=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7fd9b854f4400d743c72291d9d45f5f4a24650d2\\classes.dex
+base.1=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run-bootstrap_7fd9b854f4400d743c72291d9d45f5f4a24650d2
+file.0=F\:\\Project_android_studio\\ListViewSQLite\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10\\instant-run_dfba05098ad7967ed280955436005c66ad1b5007\\classes.dex
